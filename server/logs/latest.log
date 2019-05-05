@@ -1,0 +1,20 @@
+[00:06:24] [Server thread/INFO]: [@: Teleported ooksei to -19.0, 74.0, -615.0]
+[00:08:49] [Server thread/INFO]: [@: Teleported ooksei to 54.5, 94.0, -137.5]
+[00:09:19] [Server thread/INFO]: ooksei lost connection: Disconnected
+[00:09:19] [Server thread/INFO]: ooksei left the game
+[00:09:26] [Server thread/INFO]: Stopping the server
+[00:09:26] [Server thread/INFO]: Stopping server
+[00:09:26] [Server thread/INFO]: Saving players
+[00:09:26] [Server thread/INFO]: Saving worlds
+[00:09:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:09:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:09:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

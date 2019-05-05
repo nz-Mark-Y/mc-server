@@ -1,0 +1,43 @@
+---- Minecraft Crash Report ----
+// Uh... Did I do that?
+
+Time: 4/05/19 5:25 PM
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: Java heap space
+	at ll.<init>(SourceFile:53)
+	at us.a(SourceFile:913)
+	at us.a(SourceFile:648)
+	at us.a(SourceFile:729)
+	at us.a(SourceFile:848)
+	at ve.c(SourceFile:373)
+	at vg.m(SourceFile:951)
+	at vg.f(SourceFile:866)
+	at vg.c(SourceFile:845)
+	at xq.a(SourceFile:183)
+	at wa.c(SourceFile:111)
+	at wa.b(SourceFile:63)
+	at ja.a(SourceFile:239)
+	at vx.c(SourceFile:171)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:842)
+	at ug.b(SourceFile:343)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:764)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:632)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.14
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_73, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 119137688 bytes (113 MB) / 954728448 bytes (910 MB) up to 954728448 bytes (910 MB)
+	JVM Flags: 2 total; -Xms1024M -Xmx1024M
+	Player Count: 2 / 20; [vh['ooksei'/1133177, l='world', x=101.25, y=61.00, z=79.50], vh['Mailcar97'/1133178, l='world', x=-124.06, y=62.00, z=-248.36]]
+	Data Packs: vanilla, file/multiplayer_sleepv2.1.0.zip (incompatible)
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

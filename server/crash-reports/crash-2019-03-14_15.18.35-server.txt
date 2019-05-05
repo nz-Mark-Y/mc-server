@@ -1,0 +1,65 @@
+---- Minecraft Crash Report ----
+// Would you like a cupcake?
+
+Time: 14/03/19 3:18 PM
+Description: Exception ticking world
+
+java.lang.NullPointerException: Exception ticking world
+	at it.unimi.dsi.fastutil.longs.LongOpenHashSet$SetIterator.nextLong(LongOpenHashSet.java:464)
+	at it.unimi.dsi.fastutil.longs.LongIterator.next(LongIterator.java:43)
+	at it.unimi.dsi.fastutil.longs.LongIterator.next(LongIterator.java:26)
+	at tc.a(SourceFile:250)
+	at td.a(SourceFile:199)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:747)
+	at so.b(SourceFile:360)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:681)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:584)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at it.unimi.dsi.fastutil.longs.LongOpenHashSet$SetIterator.nextLong(LongOpenHashSet.java:464)
+	at it.unimi.dsi.fastutil.longs.LongIterator.next(LongIterator.java:43)
+	at it.unimi.dsi.fastutil.longs.LongIterator.next(LongIterator.java:26)
+	at tc.a(SourceFile:250)
+	at td.a(SourceFile:199)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 545 Drop: 289
+	Level seed: 3123381726835907533
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: {}
+	Level spawn location: World: (-144,66,-96), Chunk: (at 0,4,0 in -9,-6; contains blocks -144,0,-96 to -129,255,-81), Region: (-1,-1; contains chunks -32,-32 to -1,-1, blocks -512,0,-512 to -1,255,-1)
+	Level time: 1613 game time, 1613 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 119256 (now: false), thunder time: 132815 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.b(SourceFile:747)
+	at so.b(SourceFile:360)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:681)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:584)
+	at java.lang.Thread.run(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.13.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_91, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 947013976 bytes (903 MB) / 1360003072 bytes (1297 MB) up to 1908932608 bytes (1820 MB)
+	JVM Flags: 2 total; -Xms1024M -Xmx2048M
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)

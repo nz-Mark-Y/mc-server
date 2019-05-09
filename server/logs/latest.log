@@ -1,443 +1,61 @@
-[10:19:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:19:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:19:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:19:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[10:19:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[10:19:31] [Server thread/INFO]: Starting minecraft server version 1.14
-[10:19:31] [Server thread/INFO]: Loading properties
-[10:19:31] [Server thread/INFO]: Default game type: SURVIVAL
-[10:19:31] [Server thread/INFO]: Generating keypair
-[10:19:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:19:32] [Server thread/INFO]: Using default channel type
-[10:19:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:19:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:19:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:19:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:19:33] [Server thread/INFO]: Preparing level "world"
-[10:19:33] [Server thread/INFO]: Reloading ResourceManager: Default, multiplayer_sleepv2.1.0.zip
-[10:19:34] [Server thread/INFO]: Loaded 6 recipes
-[10:19:35] [Server thread/INFO]: Loaded 8 custom command functions
-[10:19:36] [Server thread/INFO]: Loaded 813 advancements
-[10:19:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:19:36] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[10:19:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[10:19:37] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[10:19:37] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[10:19:38] [Server-Worker-6/INFO]: Preparing spawn area: 4%
-[10:19:38] [Server-Worker-6/INFO]: Preparing spawn area: 4%
-[10:19:39] [Server-Worker-4/INFO]: Preparing spawn area: 4%
-[10:19:39] [Server-Worker-5/INFO]: Preparing spawn area: 6%
-[10:19:40] [Server-Worker-2/INFO]: Preparing spawn area: 34%
-[10:19:40] [Server-Worker-1/INFO]: Preparing spawn area: 83%
-[10:19:41] [Server thread/INFO]: Time elapsed: 4958 ms
-[10:19:41] [Server thread/INFO]: Done (8.113s)! For help, type "help"
-[18:56:27] [Server thread/INFO]: ooksei[/127.0.0.1:1187] logged in with entity id 226 at (99.31774750701433, 87.0, -91.29152233099896)
-[18:56:27] [Server thread/INFO]: ooksei joined the game
-[18:59:05] [Server thread/INFO]: [ooksei: Set the time to 1000]
-[19:08:56] [Server thread/INFO]: [ooksei: Set the time to 1000]
-[21:07:41] [Server thread/INFO]: ooksei lost connection: Disconnected
-[21:07:41] [Server thread/INFO]: ooksei left the game
-[21:11:00] [Server thread/INFO]: DetectiveAppo[/125.237.24.149:50994] logged in with entity id 153030 at (118.39635587667813, 87.0, -89.1702978130163)
-[21:11:00] [Server thread/INFO]: DetectiveAppo joined the game
-[21:12:46] [Server thread/INFO]: ooksei[/127.0.0.1:4275] logged in with entity id 163279 at (99.61745416433904, 87.0, -91.3438686236343)
-[21:12:46] [Server thread/INFO]: ooksei joined the game
-[21:12:48] [Server thread/INFO]: <DetectiveAppo> supg
-[21:12:54] [Server thread/INFO]: <ooksei> supsup
-[21:13:00] [Server thread/INFO]: <ooksei> lol you killed him
-[21:13:05] [Server thread/INFO]: <ooksei> can he spawn in water?
-[21:13:10] [Server thread/INFO]: <DetectiveAppo> shouldn't be able to
-[21:13:18] [Server thread/INFO]: <ooksei> thats weird
-[21:13:25] [Server thread/INFO]: <ooksei> nothing less than 7 around
-[21:13:28] [Server thread/INFO]: <DetectiveAppo> Ohh I must've pushed him over when I went into elevator
-[21:13:28] [Server thread/INFO]: <ooksei> less than 8
-[21:13:37] [Server thread/INFO]: <DetectiveAppo> and then he drowned
-[21:13:50] [Server thread/INFO]: <ooksei> hmm maybe he spawned at the top and got into the vortex?
-[21:13:54] [Server thread/INFO]: <ooksei> hola
-[21:13:58] [Server thread/INFO]: <DetectiveAppo> dunno aye
-[21:14:13] [Server thread/INFO]: <ooksei> damn this thing is taking ages to build
-[21:14:22] [Server thread/INFO]: <DetectiveAppo> wacha building
-[21:14:28] [Server thread/INFO]: <DetectiveAppo> is this glass pipe part of it
-[21:14:31] [Server thread/INFO]: <DetectiveAppo> or just to get into it
-[21:14:32] [Server thread/INFO]: <ooksei> gonna be a mother ship
-[21:14:35] [Server thread/INFO]: <DetectiveAppo> :O!
-[21:14:41] [Server thread/INFO]: <ooksei> yea it'll be like a "beam me up" thing
-[21:14:44] [Server thread/INFO]: <DetectiveAppo> hahaha cool
-[21:15:01] [Server thread/INFO]: <DetectiveAppo> you can colour the beam
-[21:15:07] [Server thread/INFO]: <DetectiveAppo> by passing it through stained glass
-[21:15:10] [Server thread/INFO]: <ooksei> ooh
-[21:15:12] [Server thread/INFO]: <DetectiveAppo> :>
-[21:15:24] [Server thread/INFO]: <DetectiveAppo> I think if you do it through multiple it might mix colours? Can't remember
-[21:15:24] [Server thread/INFO]: <ooksei> nah this is the colour in the lore anyways
-[21:15:26] [Server thread/INFO]: <ooksei> white blue
-[21:15:28] [Server thread/INFO]: <DetectiveAppo> ah yup
-[21:15:40] [Server thread/INFO]: <ooksei> gonna do light blue stained glass
-[21:15:44] [Server thread/INFO]: <ooksei> and yellow terracotta
-[21:15:48] [Server thread/INFO]: <DetectiveAppo> litty titties
-[21:15:51] [Server thread/INFO]: <ooksei> erm
-[21:15:53] [Server thread/INFO]: <DetectiveAppo> :)
-[21:16:09] [Server thread/INFO]: <DetectiveAppo> hahaha protoss invasion in progress
-[21:16:13] [Server thread/INFO]: <DetectiveAppo> lit
-[21:16:14] [Server thread/INFO]: <ooksei> :>
-[21:16:40] [Server thread/INFO]: <DetectiveAppo> Man
-[21:16:45] [Server thread/INFO]: <ooksei> yah?
-[21:16:46] [Server thread/INFO]: <DetectiveAppo> how do you have such a stronk uni-life balance
-[21:16:49] [Server thread/INFO]: <DetectiveAppo> tf
-[21:16:54] [Server thread/INFO]: <ooksei> 9 to 5 brah
-[21:17:03] [Server thread/INFO]: <DetectiveAppo> jelly
-[21:17:05] [Server thread/INFO]: <ooksei> if you do work at work you play at home
-[21:17:17] [Server thread/INFO]: <DetectiveAppo> I don't do work anywhere D:
-[21:17:18] [Server thread/INFO]: <ooksei> :>
-[21:17:45] [Server thread/INFO]: <ooksei> dila and savi spent the whole afternoon studying lol
-[21:17:50] [Server thread/INFO]: <ooksei> surprised af
-[21:17:50] [Server thread/INFO]: <DetectiveAppo> for what lol
-[21:17:53] [Server thread/INFO]: <ooksei> they had a test
-[21:17:56] [Server thread/INFO]: <DetectiveAppo> poor fuckers
-[21:18:01] [Server thread/INFO]: <ooksei> they usually dont prep this much either
-[21:18:16] [Server thread/INFO]: <DetectiveAppo> hahaha
-[21:18:19] [Server thread/INFO]: [@: Teleported DetectiveAppo to -3355.5, 65.0, 1253.5]
-[21:18:30] [Server thread/INFO]: <ooksei> i guess its just circumstance
-[21:18:39] [Server thread/INFO]: <ooksei> need that motivation
-[21:18:41] [Server thread/INFO]: <DetectiveAppo> :P
-[21:18:45] [Server thread/INFO]: [ooksei: Teleported ooksei to DetectiveAppo]
-[21:18:45] [Server thread/WARN]: ooksei moved too quickly! -3366.427462988172,9.0,1415.0539075891727
-[21:18:55] [Server thread/INFO]: <ooksei> modern af
-[21:18:57] [Server thread/INFO]: <DetectiveAppo> how to roof
-[21:19:08] [Server thread/INFO]: <ooksei> ayy bamboo
-[21:19:12] [Server thread/INFO]: <DetectiveAppo> yeet
-[21:19:14] [Server thread/INFO]: <DetectiveAppo> take some
-[21:19:20] [Server thread/INFO]: <ooksei> nah im gud
-[21:19:26] [Server thread/INFO]: <ooksei> doesnt really fit my theme
-[21:19:33] [Server thread/INFO]: <DetectiveAppo> but to grow
-[21:19:36] [Server thread/INFO]: <DetectiveAppo> for scaffolding
-[21:19:43] [Server thread/INFO]: <ooksei> none of that weak shit
-[21:19:44] [Server thread/INFO]: <ooksei> i use dirt
-[21:19:45] [Server thread/INFO]: <DetectiveAppo> :<
-[21:19:46] [Server thread/INFO]: <DetectiveAppo> hahahaha
-[21:19:48] [Server thread/INFO]: <DetectiveAppo> a real og
-[21:20:04] [Server thread/INFO]: <ooksei> lol im gonna die from fall damage so much
-[21:20:08] [Server thread/INFO]: <ooksei> cause mothership
-[21:20:10] [Server thread/INFO]: <DetectiveAppo> ahahahaha
-[21:20:13] [Server thread/INFO]: <DetectiveAppo> elytra
-[21:20:16] [Server thread/INFO]: <DetectiveAppo> or water bucket catch
-[21:20:18] [Server thread/INFO]: <DetectiveAppo> ez
-[21:20:21] [Server thread/INFO]: <ooksei> yee gonna have to learn fast
-[21:20:30] [Server thread/INFO]: <DetectiveAppo> 9.81 m/s^2 fast
-[21:20:34] [Server thread/INFO]: <ooksei> yeet
-[21:20:57] [Server thread/INFO]: <DetectiveAppo> but fr how to roof
-[21:21:18] [Server thread/INFO]: <DetectiveAppo> nice
-[21:21:20] [Server thread/INFO]: <ooksei> erm
-[21:21:31] [Server thread/INFO]: <ooksei> what sort of theme you going for?
-[21:21:34] [Server thread/INFO]: <DetectiveAppo> idk
-[21:21:38] [Server thread/INFO]: <ooksei> modern?
-[21:21:40] [Server thread/INFO]: <DetectiveAppo> the theme was lost
-[21:21:40] [Server thread/INFO]: <ooksei> or classic
-[21:21:41] [Server thread/INFO]: <DetectiveAppo> lol
-[21:21:43] [Server thread/INFO]: <ooksei> hahaha
-[21:22:00] [Server thread/INFO]: <ooksei> i feel like it should be a flat roof over the bar
-[21:22:09] [Server thread/INFO]: <ooksei> or is that an open deck
-[21:22:13] [Server thread/INFO]: <DetectiveAppo> open deck
-[21:22:25] [Server thread/INFO]: <DetectiveAppo> I need more dark oak :O
-[21:22:30] [Server thread/INFO]: <ooksei> dat dark wood
-[21:22:36] [Server thread/INFO]: <DetectiveAppo> BBW
-[21:22:39] [Server thread/INFO]: <DetectiveAppo> big black wood
-[21:22:46] [Server thread/INFO]: <ooksei> yee
-[21:22:58] [Server thread/INFO]: <ooksei> but do you really want a BBW roof
-[21:23:04] [Server thread/INFO]: <DetectiveAppo> nah
-[21:23:04] [Server thread/INFO]: <ooksei> thought you'd want a diff colour
-[21:23:08] [Server thread/INFO]: <DetectiveAppo> need it for wall
-[21:23:45] [Server thread/INFO]: [@: Teleported DetectiveAppo to 54.5, 94.0, -137.5]
-[21:23:50] [Server thread/INFO]: <ooksei> i feel like acacia would fit
-[21:23:55] [Server thread/INFO]: <DetectiveAppo> yeah I'm planning acaia
-[21:24:00] [Server thread/INFO]: <DetectiveAppo> I just dunno how to shap
-[21:24:01] [Server thread/INFO]: [ooksei: Teleported ooksei to DetectiveAppo]
-[21:24:01] [Server thread/WARN]: ooksei moved too quickly! 3404.8022840687995,18.168010276889987,-1148.9206904327634
-[21:24:01] [Server thread/WARN]: ooksei moved too quickly! 3404.8022840687995,18.168010276889987,-1148.9206904327634
-[21:24:04] [Server thread/INFO]: <DetectiveAppo> cuz my building it weird shape
-[21:24:05] [Server thread/INFO]: <DetectiveAppo> LOL
-[21:24:08] [Server thread/INFO]: <DetectiveAppo> lucky over water
-[21:24:09] [Server thread/INFO]: <ooksei> LOL
-[21:24:20] [Server thread/INFO]: <ooksei> where you flying to?
-[21:24:26] [Server thread/INFO]: <DetectiveAppo> dark oak foerst
-[21:24:36] [Server thread/INFO]: <ooksei> dayum all the wood
-[21:24:49] [Server thread/INFO]: [ooksei: Teleported ooksei to 55.5, 94.0, -137.5]
-[21:24:49] [Server thread/WARN]: ooksei moved too quickly! -21.292389157441022,34.194476482050625,-227.32099417212595
-[21:24:49] [Server thread/WARN]: ooksei moved too quickly! -21.292389157441022,34.194476482050625,-227.32099417212595
-[21:25:25] [Server thread/INFO]: <DetectiveAppo> need day
-[21:25:29] [Server thread/INFO]: [ooksei: Set the time to 1000]
-[21:25:32] [Server thread/INFO]: <DetectiveAppo> LOL
-[21:25:34] [Server thread/INFO]: <ooksei> haxx
-[21:25:56] [Server thread/INFO]: <ooksei> hmm i dunno what to do now
-[21:26:04] [Server thread/INFO]: <DetectiveAppo> mothership?
-[21:26:06] [Server thread/INFO]: <ooksei> feel like a break from buildin stuff
-[21:26:15] [Server thread/INFO]: <DetectiveAppo> hmm
-[21:26:20] [Server thread/INFO]: <ooksei> mightjust chill out
-[21:26:49] [Server thread/INFO]: <DetectiveAppo> come watch me farm wood/buildw
-[21:26:54] [Server thread/INFO]: [ooksei: Teleported ooksei to DetectiveAppo]
-[21:26:54] [Server thread/WARN]: ooksei moved too quickly! 28.97685689991141,-19.0,560.8193876744534
-[21:26:54] [Server thread/WARN]: ooksei moved too quickly! 28.97685689991141,-19.0,560.8193876744534
-[21:26:57] [Server thread/INFO]: <DetectiveAppo> sup
-[21:27:02] [Server thread/INFO]: <ooksei> getting all the wood
-[21:27:05] [Server thread/INFO]: <DetectiveAppo> ;)
-[21:27:07] [Server thread/INFO]: <ooksei> yo horses
-[21:27:12] [Server thread/INFO]: <DetectiveAppo> ye
-[21:27:12] [Server thread/INFO]: <ooksei> oh we've been here before
-[21:27:18] [Server thread/INFO]: <DetectiveAppo> yeah not far from spawn
-[21:27:22] [Server thread/INFO]: <ooksei> its where i raxxed YEETHAW from
-[21:27:26] [Server thread/INFO]: <DetectiveAppo> yeah hahah
-[21:28:36] [Server thread/INFO]: <ooksei> still no idea how to fix the villie issue
-[21:28:46] [Server thread/INFO]: <DetectiveAppo> murder :)
-[21:29:10] [Server thread/INFO]: <ooksei> lol thats actually not a solution this time
-[21:29:15] [Server thread/INFO]: <DetectiveAppo> why not
-[21:29:16] [Server thread/INFO]: <ooksei> v surprising
-[21:29:28] [Server thread/INFO]: <ooksei> because same thing will happen?
-[21:29:39] [Server thread/INFO]: <DetectiveAppo> what's the ting
-[21:29:59] [Server thread/INFO]: <ooksei> hmm well unless each villie just stays at its own lecturn
-[21:30:15] [Server thread/INFO]: <ooksei> pretty much they think another lecturn is its own
-[21:30:21] [Server thread/INFO]: <DetectiveAppo> oh yeha
-[21:30:26] [Server thread/INFO]: <DetectiveAppo> just remove all lecturns
-[21:30:27] [Server thread/INFO]: <DetectiveAppo> murder
-[21:30:32] [Server thread/INFO]: <DetectiveAppo> then add back
-[21:30:47] [Server thread/INFO]: <ooksei> hmm
-[21:31:08] [Server thread/INFO]: <ooksei> i might just murder everything
-[21:31:25] [Server thread/INFO]: <ooksei> rework the base so that theres a basement with lecturns and cells only
-[21:31:35] [Server thread/INFO]: <DetectiveAppo> LOL
-[21:31:35] [Server thread/INFO]: <ooksei> and then respawn dudes
-[21:31:39] [Server thread/INFO]: <DetectiveAppo> sounds like an appealing home
-[21:31:45] [Server thread/INFO]: <ooksei> yea lock em in the basement
-[21:31:50] [Server thread/INFO]: <ooksei> my fac
-[21:31:52] [Server thread/INFO]: <ooksei> fav
-[21:32:02] [Server thread/INFO]: <ooksei> eh too lazy
-[21:32:06] [Server thread/INFO]: <DetectiveAppo> :)
-[21:32:12] [Server thread/INFO]: <ooksei> imma just chill
-[21:32:19] [Server thread/INFO]: <DetectiveAppo> noice
-[21:32:23] [Server thread/INFO]: <ooksei> i dont feel like mass murder right now
-[21:32:27] [Server thread/INFO]: <DetectiveAppo> ah well
-[21:32:29] [Server thread/INFO]: <DetectiveAppo> another time, maybe
-[21:32:58] [Server thread/INFO]: <DetectiveAppo> neigh
-[21:33:23] [Server thread/INFO]: <ooksei> nay?
-[21:33:25] [Server thread/INFO]: <DetectiveAppo> NEIGH
-[21:33:31] [Server thread/INFO]: <DetectiveAppo> aight I have eough bbw
-[21:33:35] [Server thread/INFO]: <ooksei> lol
-[21:33:37] [Server thread/INFO]: [DetectiveAppo: Teleported ooksei to 54.5, 94.0, -137.5]
-[21:33:37] [Server thread/WARN]: ooksei moved too quickly! -106.042854825928,24.0,-574.5485926148866
-[21:33:37] [Server thread/WARN]: ooksei moved too quickly! -106.042854825928,24.0,-574.5485926148866
-[21:33:39] [Server thread/INFO]: [DetectiveAppo: Teleported DetectiveAppo to ooksei]
-[21:33:42] [Server thread/INFO]: <ooksei> well ty
-[21:33:45] [Server thread/INFO]: <DetectiveAppo> :)
-[21:33:49] [Server thread/INFO]: [@: Teleported DetectiveAppo to -3355.5, 65.0, 1253.5]
-[21:33:50] [Server thread/INFO]: [@: Teleported ooksei to -3355.5, 65.0, 1253.5]
-[21:34:14] [Server thread/INFO]: <DetectiveAppo> I should move my tp lol
-[21:34:15] [Server thread/INFO]: <ooksei> o i also want to build a storage room under the mothership
-[21:34:19] [Server thread/INFO]: <DetectiveAppo> ooh
-[21:34:20] [Server thread/INFO]: <ooksei> hahah works for you
-[21:34:25] [Server thread/INFO]: <ooksei> current one too small
-[21:34:38] [Server thread/INFO]: <DetectiveAppo> yeah your storage room is tiny
-[21:34:43] [Server thread/INFO]: <DetectiveAppo> not enough for all that stone
-[21:35:42] [Server thread/INFO]: <DetectiveAppo> hmm
-[21:35:46] [Server thread/INFO]: <ooksei> yah?
-[21:35:55] [Server thread/INFO]: <DetectiveAppo> what I put out here
-[21:36:03] [Server thread/INFO]: <DetectiveAppo> Kinda want like
-[21:36:07] [Server thread/INFO]: <DetectiveAppo> a stables or something
-[21:36:13] [Server thread/INFO]: <DetectiveAppo> tx
-[21:36:20] [Server thread/INFO]: <ooksei> pig pen
-[21:36:23] [Server thread/INFO]: <DetectiveAppo> oink
-[21:36:30] [Server thread/INFO]: <ooksei> sheep pens :>
-[21:36:33] [Server thread/INFO]: <DetectiveAppo> baa
-[21:36:36] [Server thread/INFO]: <ooksei> bae
-[21:36:40] [Server thread/INFO]: <DetectiveAppo> LOL
-[21:36:59] [Server thread/INFO]: <ooksei> could do a spire?
-[21:37:05] [Server thread/INFO]: <ooksei> tower ish thing
-[21:37:14] [Server thread/INFO]: <DetectiveAppo> I think I like stables idea
-[21:37:18] [Server thread/INFO]: <DetectiveAppo> but then the whole modern thing
-[21:37:18] [Server thread/INFO]: <DetectiveAppo> hmm
-[21:37:23] [Server thread/INFO]: <ooksei> garage
-[21:37:32] [Server thread/INFO]: <DetectiveAppo> hmmmm
-[21:37:33] [Server thread/INFO]: <ooksei> except its a horse
-[21:37:35] [Server thread/INFO]: <ooksei> named car
-[21:37:36] [Server thread/INFO]: <DetectiveAppo> LOL
-[21:37:42] [Server thread/INFO]: <DetectiveAppo> do I just redo the bar
-[21:37:50] [Server thread/INFO]: <ooksei> i like tho
-[21:37:50] [Server thread/INFO]: <DetectiveAppo> maybe wood seats or something
-[21:37:53] [Server thread/INFO]: <DetectiveAppo> I like it too
-[21:37:58] [Server thread/INFO]: <DetectiveAppo> but it's ruining my theme LOL
-[21:38:08] [Server thread/INFO]: <ooksei> well the glass is what ruins the theme
-[21:38:16] [Server thread/INFO]: <DetectiveAppo> but it looks mean
-[21:38:18] [Server thread/INFO]: <DetectiveAppo> lolol
-[21:38:20] [Server thread/INFO]: <ooksei> it does its bae af
-[21:38:28] [Server thread/INFO]: <DetectiveAppo> Maybe we pretend it's a recent renovation
-[21:38:34] [Server thread/INFO]: <DetectiveAppo> and the rest can be normal old timey
-[21:38:35] [Server thread/INFO]: <DetectiveAppo> lolol
-[21:38:38] [Server thread/INFO]: <ooksei> aight
-[21:39:03] [Server thread/INFO]: <DetectiveAppo> slept
-[21:39:12] [Server thread/INFO]: <ooksei> zzzzzzzzzzzz
-[21:39:38] [Server thread/INFO]: <DetectiveAppo> aw man I have no wheat
-[21:39:42] [Server thread/INFO]: <ooksei> yeet some from mine
-[21:39:52] [Server thread/INFO]: <DetectiveAppo> later
-[21:39:59] [Server thread/INFO]: <ooksei> wot you need wheat for anyways
-[21:40:02] [Server thread/INFO]: <DetectiveAppo> hay
-[21:40:08] [Server thread/INFO]: <ooksei> hay
-[21:40:10] [Server thread/INFO]: <DetectiveAppo> :)
-[21:40:54] [Server thread/INFO]: <ooksei> o i thought it would be further near the fron of the house
-[21:41:06] [Server thread/INFO]: <DetectiveAppo> I'm thikning htere
-[21:41:14] [Server thread/INFO]: <ooksei> kewl
-[21:41:30] [Server thread/INFO]: <DetectiveAppo> and then
-[21:42:10] [Server thread/INFO]: <DetectiveAppo> hmm
-[21:42:43] [Server thread/INFO]: <ooksei> yo is that an ocean temple
-[21:42:46] [Server thread/INFO]: <DetectiveAppo> wherE?
-[21:42:47] [Server thread/INFO]: <ooksei> or just ruins?
-[21:42:49] [Server thread/INFO]: <DetectiveAppo> ruins
-[21:42:54] [Server thread/INFO]: <ooksei> :/
-[21:43:18] [Server thread/INFO]: <ooksei> ayy
-[21:43:22] [Server thread/INFO]: <ooksei> i gotta make some of those
-[21:43:48] [Server thread/INFO]: <ooksei> camp time
-[21:43:54] [Server thread/INFO]: <DetectiveAppo> ow
-[21:44:04] [Server thread/INFO]: <ooksei> hawt
-[21:44:25] [Server thread/INFO]: <DetectiveAppo> hm
-[21:44:33] [Server thread/INFO]: <ooksei> i like it better there
-[21:44:41] [Server thread/INFO]: <ooksei> or just leave this one out
-[21:44:47] [Server thread/INFO]: <DetectiveAppo> who
-[21:44:59] [Server thread/INFO]: <ooksei> we dont have that many friends anyway
-[21:45:14] [Server thread/INFO]: <DetectiveAppo> tru
-[21:45:17] [Server thread/INFO]: <ooksei> awkward access to stables tho
-[21:45:21] [Server thread/INFO]: <DetectiveAppo> ye
-[21:45:23] [Server thread/INFO]: <DetectiveAppo> hm
-[21:46:09] [Server thread/INFO]: <ooksei> lit
-[21:46:29] [Server thread/INFO]: <DetectiveAppo> intimate af
-[21:46:32] [Server thread/INFO]: <ooksei> cute
-[21:46:50] [Server thread/INFO]: <DetectiveAppo> hm
-[21:48:20] [Server thread/INFO]: <DetectiveAppo> hm
-[21:48:42] [Server thread/INFO]: <DetectiveAppo> hmm
-[21:49:12] [Server thread/INFO]: <ooksei> detailed af
-[21:49:40] [Server thread/INFO]: <DetectiveAppo> try that for now :O
-[21:50:39] [Server thread/INFO]: <ooksei> wots cookin
-[21:50:46] [Server thread/INFO]: <DetectiveAppo> sammin
-[21:50:52] [Server thread/INFO]: <ooksei> noice
-[21:51:19] [Server thread/INFO]: <ooksei> fanx
-[21:51:59] [Server thread/INFO]: <ooksei> you got horses on this island?
-[21:52:09] [Server thread/INFO]: <DetectiveAppo> nah
-[21:52:11] [Server thread/INFO]: <DetectiveAppo> LOL
-[21:52:15] [Server thread/INFO]: <DetectiveAppo> But I'll bring some over
-[21:52:15] [Server thread/INFO]: <ooksei> :<
-[21:52:17] [Server thread/INFO]: <ooksei> naice
-[21:52:20] [Server thread/INFO]: <ooksei> o aye sues on sc2
-[21:52:23] [Server thread/INFO]: <ooksei> imma see if hes keen
-[21:52:23] [Server thread/INFO]: <DetectiveAppo> oh nice
-[21:52:25] [Server thread/INFO]: <DetectiveAppo> okie
-[21:52:44] [Server thread/INFO]: <ooksei> havent played for a while tbh
-[21:52:50] [Server thread/INFO]: <DetectiveAppo> blasphemy
-[21:52:52] [Server thread/INFO]: <ooksei> busy with grad stuff and all
-[21:52:56] [Server thread/INFO]: <DetectiveAppo> :O
-[21:53:02] [Server thread/INFO]: <ooksei> no reply i think he afk
-[21:53:11] [Server thread/INFO]: <DetectiveAppo> what's grass spread rule
-[21:53:14] [Server thread/INFO]: <DetectiveAppo> does it go diagonal?
-[21:53:26] [Server thread/INFO]: <ooksei> dunno
-[21:53:37] [Server thread/INFO]: <ooksei> im not the mc expert here
-[21:53:40] [Server thread/INFO]: <DetectiveAppo> :<
-[21:55:53] [Server thread/INFO]: <ooksei> hmm you need a staircase up lol
-[21:56:01] [Server thread/INFO]: <DetectiveAppo> hm from where?
-[21:56:06] [Server thread/INFO]: <DetectiveAppo> oh yeah the hill
-[21:56:07] [Server thread/INFO]: <ooksei> from the villie to your house
-[21:56:10] [Server thread/INFO]: <DetectiveAppo> yeah
-[21:56:15] [Server thread/INFO]: <DetectiveAppo> I'll do that at some point
-[21:56:17] [Server thread/INFO]: <ooksei> how else are the peasants going to come deliver their sacrifices
-[21:56:20] [Server thread/INFO]: <DetectiveAppo> hahaha
-[21:56:59] [Server thread/INFO]: <ooksei> ooh how bout an altar
-[21:57:14] [Server thread/INFO]: <DetectiveAppo> for what llolol
-[21:57:16] [Server thread/INFO]: <ooksei> whre you murder things
-[21:57:32] [Server thread/INFO]: <DetectiveAppo> ah so my lab
-[21:57:42] [Server thread/INFO]: <DetectiveAppo> lit
-[21:57:42] [Server thread/INFO]: <ooksei> ya that
-[21:58:00] [Server thread/INFO]: <ooksei> also how does the bartender get behind the bar
-[21:58:03] [Server thread/INFO]: <ooksei> this is unpractical
-[21:58:04] [Server thread/INFO]: <DetectiveAppo> shh
-[21:58:11] [Server thread/INFO]: <ooksei> unsafe working conditions
-[21:58:15] [Server thread/INFO]: <DetectiveAppo> I was gonna put Jerry back there
-[21:58:20] [Server thread/INFO]: <ooksei> LOL
-[21:58:26] [Server thread/INFO]: <ooksei> keen
-[21:58:38] [Server thread/INFO]: <DetectiveAppo> hahahaha
-[21:58:43] [Server thread/INFO]: <ooksei> i mean thats slavery
-[21:58:45] [Server thread/INFO]: <DetectiveAppo> shh
-[21:58:53] [Server thread/INFO]: <ooksei> totally not okay lucy
-[21:58:57] [Server thread/INFO]: <ooksei> even if he's white
-[21:59:05] [Server thread/INFO]: <DetectiveAppo> it's fine
-[21:59:59] [Server thread/INFO]: <ooksei> dat tan
-[22:00:17] [Server thread/INFO]: <DetectiveAppo> :)
-[22:00:19] [Server thread/INFO]: <DetectiveAppo> sin/cos
-[22:00:25] [Server thread/INFO]: <ooksei> yeet
-[22:00:38] [Server thread/INFO]: <DetectiveAppo> hmm
-[22:01:13] [Server thread/INFO]: <ooksei> dila says no tt for him on wednesday
-[22:01:21] [Server thread/INFO]: <DetectiveAppo> :O
-[22:01:25] [Server thread/INFO]: <DetectiveAppo> weow
-[22:01:26] [Server thread/INFO]: <ooksei> sad life
-[22:02:02] [Server thread/INFO]: <ooksei> where were you last tt day anyways
-[22:02:07] [Server thread/INFO]: <DetectiveAppo> uh dk
-[22:02:11] [Server thread/INFO]: <ooksei> off being sociable
-[22:02:13] [Server thread/INFO]: <DetectiveAppo> I didn't say I was gonig tho :O
-[22:02:17] [Server thread/INFO]: <ooksei> troo
-[22:03:22] [Server thread/INFO]: <ooksei> does the horse get a roof?
-[22:03:31] [Server thread/INFO]: <DetectiveAppo> hmm
-[22:03:33] [Server thread/INFO]: <DetectiveAppo> no
-[22:03:33] [Server thread/INFO]: <DetectiveAppo> lol
-[22:03:34] [Server thread/INFO]: <ooksei> or is that extra rent
-[22:03:37] [Server thread/INFO]: <ooksei> lolol
-[22:03:45] [Server thread/INFO]: <DetectiveAppo> only if it's aesthetic
-[22:05:13] [Server thread/INFO]: <DetectiveAppo> this boi gonna escape
-[22:05:13] [Server thread/INFO]: <ooksei> what is this non structural logs
-[22:05:17] [Server thread/INFO]: <DetectiveAppo> shh
-[22:05:24] [Server thread/INFO]: <ooksei> hes gonna jump the fence?
-[22:05:29] [Server thread/INFO]: <DetectiveAppo> yeah
-[22:05:37] [Server thread/INFO]: <ooksei> smart
-[22:05:41] [Server thread/INFO]: <ooksei> get out while you can
-[22:05:43] [Server thread/INFO]: <DetectiveAppo> lolol
-[22:06:22] [Server thread/INFO]: <DetectiveAppo> hmm
-[22:06:42] [Server thread/INFO]: <ooksei> why does he need a barrell
-[22:06:44] [Server thread/INFO]: <ooksei> barrel
-[22:06:45] [Server thread/INFO]: <DetectiveAppo> shh
-[22:06:49] [Server thread/INFO]: <DetectiveAppo> it's for his food
-[22:06:55] [Server thread/INFO]: <ooksei> but thats the hay?
-[22:07:01] [Server thread/INFO]: <DetectiveAppo> shh
-[22:07:21] [Server thread/INFO]: <DetectiveAppo> hmm
-[22:07:55] [Server thread/INFO]: <ooksei> this stuff is actually pretty cool
-[22:08:09] [Server thread/INFO]: <ooksei> :>
-[22:11:08] [Server thread/INFO]: [@: Teleported ooksei to 54.5, 94.0, -137.5]
-[22:11:29] [Server thread/INFO]: <DetectiveAppo> :O
-[22:11:33] [Server thread/INFO]: <DetectiveAppo> what stuff?
-[22:11:39] [Server thread/INFO]: <DetectiveAppo> scaffol?
-[22:11:41] [Server thread/INFO]: <ooksei> scaffolding yea
-[22:11:46] [Server thread/INFO]: <DetectiveAppo> yeah hahaha
-[22:11:50] [Server thread/INFO]: <DetectiveAppo> I wanna get used to it
-[22:16:19] [Server thread/INFO]: [@: Teleported ooksei to -19.0, 74.0, -615.0]
-[22:16:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
-[22:18:12] [Server thread/INFO]: [@: Teleported ooksei to 54.5, 94.0, -137.5]
-[22:18:26] [Server thread/INFO]: <ooksei> keen for tt tomo at 1?
-[22:18:31] [Server thread/INFO]: <DetectiveAppo> :x
-[22:18:37] [Server thread/INFO]: <ooksei> ;>
-[22:18:48] [Server thread/INFO]: <DetectiveAppo> nbk for now
-[22:18:52] [Server thread/INFO]: <ooksei> :<
-[22:18:57] [Server thread/INFO]: <DetectiveAppo> was unproductive az today
-[22:19:22] [Server thread/INFO]: <ooksei> aight then
-[22:21:23] [Server thread/INFO]: <DetectiveAppo> Aw is getting late
-[22:21:26] [Server thread/INFO]: <DetectiveAppo> i'mma head off :O
-[22:21:29] [Server thread/INFO]: <ooksei> aight then
-[22:21:32] [Server thread/INFO]: <ooksei> cyaz :>
-[22:21:32] [Server thread/INFO]: <DetectiveAppo> gnite homie
-[22:21:34] [Server thread/INFO]: DetectiveAppo lost connection: Disconnected
-[22:21:34] [Server thread/INFO]: DetectiveAppo left the game
-[22:26:16] [Server thread/INFO]: ooksei lost connection: Disconnected
-[22:26:16] [Server thread/INFO]: ooksei left the game
-[22:27:45] [Server thread/INFO]: Stopping the server
-[22:27:45] [Server thread/INFO]: Stopping server
-[22:27:45] [Server thread/INFO]: Saving players
-[22:27:45] [Server thread/INFO]: Saving worlds
-[22:27:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:27:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:27:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:27:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:27:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:27:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:27:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:27:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:27:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:27:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:27:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:27:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:33:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:33:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:33:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:33:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:33:00] [Server thread/INFO]: Starting minecraft server version 1.14
+[17:33:00] [Server thread/INFO]: Loading properties
+[17:33:00] [Server thread/INFO]: Default game type: SURVIVAL
+[17:33:00] [Server thread/INFO]: Generating keypair
+[17:33:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:33:01] [Server thread/INFO]: Using default channel type
+[17:33:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:33:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:33:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:33:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:33:01] [Server thread/INFO]: Preparing level "world"
+[17:33:02] [Server thread/INFO]: Reloading ResourceManager: Default, multiplayer_sleepv2.1.0.zip
+[17:33:03] [Server thread/INFO]: Loaded 6 recipes
+[17:33:03] [Server thread/INFO]: Loaded 8 custom command functions
+[17:33:04] [Server thread/INFO]: Loaded 813 advancements
+[17:33:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:33:04] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[17:33:04] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:33:05] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:33:05] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[17:33:06] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[17:33:06] [Server-Worker-4/INFO]: Preparing spawn area: 1%
+[17:33:07] [Server-Worker-6/INFO]: Preparing spawn area: 19%
+[17:33:07] [Server-Worker-2/INFO]: Preparing spawn area: 69%
+[17:33:08] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[17:33:08] [Server-Worker-3/INFO]: Preparing spawn area: 100%
+[17:33:08] [Server thread/INFO]: Time elapsed: 4755 ms
+[17:33:08] [Server thread/INFO]: Done (6.963s)! For help, type "help"
+[20:38:18] [Server thread/INFO]: ooksei[/127.0.0.1:22924] logged in with entity id 227 at (101.93029069467897, 87.0, -89.74005346553562)
+[20:38:18] [Server thread/INFO]: ooksei joined the game
+[20:39:14] [Server thread/INFO]: [@: Teleported ooksei to -19.0, 74.0, -615.0]
+[20:39:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
+[20:40:38] [Server thread/INFO]: [@: Teleported ooksei to 54.5, 94.0, -137.5]
+[20:40:42] [Server thread/INFO]: [ooksei: Set the time to 1000]
+[20:40:43] [Server thread/INFO]: [@: Teleported ooksei to 785.5, 75.0, 442.5]
+[20:40:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[20:40:52] [Server thread/INFO]: [@: Teleported ooksei to 54.5, 94.0, -137.5]
+[20:44:16] [Server thread/INFO]: [@: Teleported ooksei to -19.0, 74.0, -615.0]
+[20:46:32] [Server thread/INFO]: [@: Teleported ooksei to 54.5, 94.0, -137.5]
+[21:30:50] [Server thread/INFO]: ooksei lost connection: Disconnected
+[21:30:50] [Server thread/INFO]: ooksei left the game
+[21:46:56] [Server thread/INFO]: Stopping the server
+[21:46:56] [Server thread/INFO]: Stopping server
+[21:46:56] [Server thread/INFO]: Saving players
+[21:46:56] [Server thread/INFO]: Saving worlds
+[21:46:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:46:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:46:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:46:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:46:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:46:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:46:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:46:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:46:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:46:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:46:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:46:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

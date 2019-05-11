@@ -1,48 +1,64 @@
-[17:37:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:37:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:37:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:37:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:37:30] [Server thread/INFO]: Starting minecraft server version 1.14
-[17:37:30] [Server thread/INFO]: Loading properties
-[17:37:30] [Server thread/INFO]: Default game type: SURVIVAL
-[17:37:30] [Server thread/INFO]: Generating keypair
-[17:37:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:37:30] [Server thread/INFO]: Using default channel type
-[17:37:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:37:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:37:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:37:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:37:31] [Server thread/INFO]: Preparing level "world"
-[17:37:31] [Server thread/INFO]: Reloading ResourceManager: Default, multiplayer_sleepv2.1.0.zip
-[17:37:33] [Server thread/INFO]: Loaded 6 recipes
-[17:37:34] [Server thread/INFO]: Loaded 8 custom command functions
-[17:37:34] [Server thread/INFO]: Loaded 813 advancements
-[17:37:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:37:35] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[17:37:35] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[17:37:35] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[17:37:36] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[17:37:36] [Server-Worker-6/INFO]: Preparing spawn area: 4%
-[17:37:37] [Server-Worker-4/INFO]: Preparing spawn area: 4%
-[17:37:37] [Server-Worker-5/INFO]: Preparing spawn area: 31%
-[17:37:38] [Server-Worker-5/INFO]: Preparing spawn area: 66%
-[17:37:38] [Server-Worker-6/INFO]: Preparing spawn area: 100%
-[17:37:39] [Server-Worker-3/INFO]: Preparing spawn area: 100%
-[17:37:39] [Server thread/INFO]: Time elapsed: 4723 ms
-[17:37:39] [Server thread/INFO]: Done (7.771s)! For help, type "help"
-[22:46:16] [Server thread/INFO]: Stopping the server
-[22:46:16] [Server thread/INFO]: Stopping server
-[22:46:16] [Server thread/INFO]: Saving players
-[22:46:16] [Server thread/INFO]: Saving worlds
-[22:46:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:46:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:46:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:46:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:17:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:17:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:17:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:17:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:17:37] [Server thread/INFO]: Starting minecraft server version 1.14
+[11:17:37] [Server thread/INFO]: Loading properties
+[11:17:37] [Server thread/INFO]: Default game type: SURVIVAL
+[11:17:37] [Server thread/INFO]: Generating keypair
+[11:17:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:17:37] [Server thread/INFO]: Using default channel type
+[11:17:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:17:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:17:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:17:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:17:39] [Server thread/INFO]: Preparing level "world"
+[11:17:39] [Server thread/INFO]: Reloading ResourceManager: Default, multiplayer_sleepv2.1.0.zip
+[11:17:40] [Server thread/INFO]: Loaded 6 recipes
+[11:17:41] [Server thread/INFO]: Loaded 8 custom command functions
+[11:17:41] [Server thread/INFO]: Loaded 813 advancements
+[11:17:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:17:42] [Server-Worker-7/INFO]: Preparing spawn area: 0%
+[11:17:42] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[11:17:42] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[11:17:43] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[11:17:44] [Server-Worker-2/INFO]: Preparing spawn area: 7%
+[11:17:44] [Server-Worker-7/INFO]: Preparing spawn area: 10%
+[11:17:44] [Server-Worker-7/INFO]: Preparing spawn area: 11%
+[11:17:45] [Server-Worker-5/INFO]: Preparing spawn area: 23%
+[11:17:45] [Server-Worker-4/INFO]: Preparing spawn area: 80%
+[11:17:46] [Server thread/INFO]: Time elapsed: 4492 ms
+[11:17:46] [Server thread/INFO]: Done (7.413s)! For help, type "help"
+[15:33:35] [Server thread/INFO]: ooksei[/127.0.0.1:5870] logged in with entity id 254 at (99.59463786846246, 74.0, -89.57242026803503)
+[15:33:35] [Server thread/INFO]: ooksei joined the game
+[15:34:31] [Server thread/INFO]: [@: Teleported ooksei to -19.0, 74.0, -615.0]
+[15:34:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
+[15:34:44] [Server thread/INFO]: [ooksei: Set the time to 1000]
+[15:41:38] [Server thread/WARN]: Fetching addPacket for removed entity
+[16:02:03] [Server thread/WARN]: Fetching addPacket for removed entity
+[16:04:17] [Server thread/INFO]: [@: Teleported ooksei to 54.5, 94.0, -137.5]
+[16:06:26] [Server thread/INFO]: [@: Teleported ooksei to 785.5, 75.0, 442.5]
+[16:12:36] [Server thread/INFO]: [@: Teleported ooksei to 54.5, 94.0, -137.5]
+[16:12:42] [Server thread/INFO]: [@: Teleported ooksei to -19.0, 74.0, -615.0]
+[16:13:21] [Server thread/INFO]: ooksei lost connection: Disconnected
+[16:13:21] [Server thread/INFO]: ooksei left the game
+[19:34:51] [Server thread/INFO]: DetectiveAppo[/122.58.166.62:62830] logged in with entity id 37240 at (-3263.1006405382454, 96.0625, 1331.7370615109255)
+[19:34:51] [Server thread/INFO]: DetectiveAppo joined the game
+[19:34:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[19:34:57] [Server thread/INFO]: <DetectiveAppo> PENIS
+[19:35:44] [Server thread/WARN]: DetectiveAppo moved too quickly! -12.889716219126058,-2.8165249566792028,-12.099644029804722
+[19:35:55] [Server thread/INFO]: [@: Teleported DetectiveAppo to 54.5, 94.0, -137.5]
+[19:36:03] [Server thread/INFO]: [@: Teleported DetectiveAppo to -608.5, 73.0, -168.5]
+[19:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[19:36:47] [Server thread/INFO]: [@: Teleported DetectiveAppo to -85.5, 243.0, -20.5]
+[19:37:16] [Server Watchdog/FATAL]: A single server tick took 60.28 seconds (should be max 0.05)
+[19:37:16] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[19:37:16] [Server Watchdog/ERROR]: This crash report has been saved to: D:\Documents\My Games\mc-server\server\.\crash-reports\crash-2019-05-11_19.37.16-server.txt
+[19:37:16] [Server thread/INFO]: Stopping server
+[19:37:16] [Server thread/INFO]: Saving players
+[19:37:16] [Server thread/INFO]: Saving worlds
+[19:37:16] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[19:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:37:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[19:37:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:37:18] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
